@@ -40,7 +40,7 @@ class MyPanel extends JPanel {
         g.setFont(f);
         g.drawString(how, x_text, 20);
 
-
+//dho zjaltdksehosi
     }
 }
 
